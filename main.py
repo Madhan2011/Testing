@@ -16,9 +16,10 @@ class Test:
     def division(self):
         print(self.a / self.b)
 
-    if __name__ == '__main__':
-        obj = Test()
-        obj.addition()
-        obj.subtraction()
-        obj.multiplication()
-        obj.division()
+
+if __name__ == '__main__':
+    obj = Test()
+    obj.addition()
+    obj.subtraction()
+    obj.multiplication()
+    obj.division()
