@@ -1,4 +1,12 @@
-a = " World"
-print("Hello" + a)
+def main(b):
+    a = " Welcome, "
+    print(a + b)
+
+
+main("Madhan")
+
+
+
+
 
 
